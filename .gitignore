@@ -1,0 +1,5 @@
+.env
+__pycache__/
+*.pyc
+file_versions/
+upload_bots/
